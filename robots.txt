@@ -1,0 +1,9 @@
+# Robots.txt for viking iptv
+User-agent: *
+Allow: /
+Disallow: /api/
+Disallow: /admin/
+Disallow: /checkout/thank-you/
+
+# Sitemap location
+Sitemap: https://viking4kiptv.shop/sitemap.xml
